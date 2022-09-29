@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=User
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ User\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=ant
+comment1.target=User(Ant)
+comment2.params=
+comment2.target=int\ getCurrency()
+comment3.params=i
+comment3.target=void\ setCurrency(int)
+comment4.params=
+comment4.target=Ant\ getChosenOne()
+numComments=5

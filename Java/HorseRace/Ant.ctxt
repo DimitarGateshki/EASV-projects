@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ant
+comment1.params=name
+comment1.target=Ant(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ getEnd()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getTimeOFEnd()
+comment6.params=
+comment6.target=int\ getOdds()
+numComments=7
